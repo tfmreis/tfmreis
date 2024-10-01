@@ -7,11 +7,11 @@ Here something about me:
 - /
 
 Skills:
-- C#, .Net, .NET Core, SQL Server, Azure, xUnit, Git, ORM's Entity Framework e Dapper, HTML 5, CSS 3, JavaScript e Jquery, DataDog, Application Insights, Azure DevOps, GraphQL, Angular, TypeScript, Linq, Rest Api e outra mais.
+- C#, .Net, .NET Core, SQL Server, Azure, xUnit, Git, ORM's Entity Framework e Dapper, HangFire, HTML 5, CSS 3, JavaScript e Jquery, DataDog, Application Insights, Azure DevOps, GraphQL, Angular, TypeScript, Linq, Rest Api e outra mais.
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tfmreis)](https://github.com/tfmreis)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tfmreis/)](https://www.linkedin.com/in/tfmreis/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-franklin-miranda-reis-54442a67/)](https://www.linkedin.com/in/thiago-franklin-miranda-reis-54442a67/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/tfmreis/)](https://www.instagram.com/tfmreis/)
 
 <!--
