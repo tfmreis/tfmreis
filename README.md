@@ -2,11 +2,12 @@
 
 Here something about me:
 - 🔭 Development and Analyst Specialist
-- 📫 [My LinkedIn profile](https://www.linkedin.com/in/tfmreis/)
+- 📫 [My LinkedIn profile](https://www.linkedin.com/in/thiago-franklin-miranda-reis-54442a67/)
 - 💬 Ask me about: Development
+- /
 
 Skills:
-- C#, .Net, SQL, Html, Json, JQuery, JavaScript, Azure DevOps, AWS ...
+- C#, .Net, .NET Core, SQL Server, Azure, xUnit, Git, ORM's Entity Framework e Dapper, HTML 5, CSS 3, JavaScript e Jquery, DataDog, Application Insights, Azure DevOps, GraphQL, Angular, TypeScript, Linq, Rest Api e outra mais.
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tfmreis)](https://github.com/tfmreis)
